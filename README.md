@@ -1,1 +1,1 @@
-# https-github.com-Pteroto-androiddevconf_example2
+# androiddevconf_example2
